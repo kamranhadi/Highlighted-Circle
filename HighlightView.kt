@@ -1,4 +1,4 @@
-package com.zupee.ui.components.overlay
+package com.ui.components.overlay
 
 import android.content.Context
 import android.graphics.Canvas
